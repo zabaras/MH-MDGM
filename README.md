@@ -108,4 +108,4 @@ If you find this repo useful for your research, please consider to cite:
 
 ## Questions
 
-For any questions or comments regarding this paper, please contact Yingzhi Xia via ([xiayzh@shanghaitech.edu.cn](mailto:xiayzh@shanghaitech.edu.cn)).
+For any questions or comments regarding this paper, please contact Yingzhi Xia via [xiayzh@shanghaitech.edu.cn](mailto:xiayzh@shanghaitech.edu.cn).
