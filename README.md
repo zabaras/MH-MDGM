@@ -23,7 +23,7 @@ The developed method is demonstrated with two types of permeability estimation f
 ## Dependencies
 
 - python 3
-- PyTorch 0.4
+- PyTorch
 - Fenics
 - h5py
 - matplotlib
