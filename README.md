@@ -37,7 +37,7 @@ The developed method is demonstrated with two types of permeability estimation f
 - Clone this repo:
 
 ```
-git clone https://https://github.com/zabaras/MH-MDGM.git
+git clone https://github.com/zabaras/MH-MDGM.git
 ```
 
 
