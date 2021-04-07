@@ -45,7 +45,7 @@ git clone https://github.com/zabaras/MH-MDGM.git
 
 The datasets used have been uploaded to Google Drive and can be downloaded corresponding links
 
-Gaussian: Please change the direction and download all files from the link:
+Gaussian: Please change the directory and download all files from the link:
 
 ```bash
 cd MDGM/Gaussian/data
@@ -53,7 +53,7 @@ cd MDGM/Gaussian/data
 
 Link: https://drive.google.com/drive/folders/1CkktP9v-k74ALU2CWHmB9xS_Vcm-cSI5
 
-Channel: Please change the direction and download all files from the link:
+Channel: Please change the directory and download all files from the link:
 
 ```bash
 cd MDGM/Channel/data
@@ -65,7 +65,7 @@ Link: https://drive.google.com/drive/folders/1ovrdWre3yMEmbDY5tPCECxzlSCLpc5Bq
 
 ## Multiscale deep generative model (MDGM)
 
-To train MDGM, you can change the directions and run corresponding  example (Gaussian/ Channel) for different scales: 
+To train MDGM, you can change the directory and run corresponding  example (Gaussian/ Channel) for different scales: 
 
 The list of the generative model realized in the paper (refer the paper for details):
 
