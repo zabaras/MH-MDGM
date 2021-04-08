@@ -65,9 +65,9 @@ Link: https://drive.google.com/drive/folders/1ovrdWre3yMEmbDY5tPCECxzlSCLpc5Bq
 
 ## Multiscale deep generative model (MDGM)
 
-To train MDGM, you can change the directory and run corresponding  example (Gaussian/ Channel) for different scales: 
+To train MDGM, you can change the directory and run corresponding example (Gaussian/ Channel) for different scales:
 
-The list of the generative model realized in the paper (refer the paper for details):
+The list of the generative model realized in the paper (refer to the paper for details):
 
 | Gaussian        | Channel                        |
 | --------------- | ------------------------------ |
@@ -83,7 +83,7 @@ python Channel/VAE_train_16_32.py
 
 ## Inverse model
 
-To estimate the parameter in the Bayesian inverse problem, you can change the directions and run corresponding  example (Gaussian/ Channel) for inverse modeling using MCMC (refer the paper for details): 
+To estimate the parameter in the Bayesian inverse problem, you can change the directions and run corresponding  example (Gaussian/ Channel) for inverse modeling using MCMC (refer to the paper for details): 
 
 For example, to estimate  the Channel random field for the 16 and 16_32 experiment:
 
