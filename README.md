@@ -4,10 +4,9 @@
 
 Yingzhi Xia, [Nicholas Zabaras](https://www.zabaras.com)
 
-PyTorch Implementation of Bayesian inverse problems.  The parameterization using the proposed multiscale deep generative model can exploite the multiscale nature of the parameter of interest. Combining the multiscale generative model with Markov Chain Monte Carlo (MCMC), inference across scales is achieved enabling us to efficiently obtain posterior parameter samples at various scales. 
-
+PyTorch implementation of Bayesian inverse problems. 
+The parameterization using the proposed multiscale deep generative model can exploit the multiscale nature of the parameter of interest. Combining the multiscale generative model with Markov Chain Monte Carlo (MCMC), inference across scales is achieved enabling us to efficiently obtain posterior parameter samples at various scales.
 The developed method is demonstrated with two types of permeability estimation for flow in heterogeneous media. One is a Gaussian random field (GRF) with uncertain length scales, and the other is channelized permeability with the two regions defined by different GRFs.
-
 ## Contributions
 
 - Based on the vanilla VAE, we extend and derive the MDGM, which can generate spatial parameters at various scales with an appropriately designed latent space.
