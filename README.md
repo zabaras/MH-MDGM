@@ -43,7 +43,7 @@ git clone https://github.com/zabaras/MH-MDGM.git
 
 ## Dataset
 
-The datasets used have been uploaded to Google Drive and can be downloaded corresponding links
+The dataset used have been uploaded to Google Drive and can be downloaded with corresponding links.
 
 Gaussian: Please change the directory and download all files from the link:
 
