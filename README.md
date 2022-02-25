@@ -1,6 +1,6 @@
 # **Bayesian multiscale deep generative model for the solution of high-dimensional inverse problems**
 
-[Bayesian multiscale deep generative model for the solution of high-dimensional inverse problems](https://arxiv.org/pdf/2102.03169.pdf)
+[Bayesian multiscale deep generative model for the solution of high-dimensional inverse problems](https://www.sciencedirect.com/science/article/pii/S0021999122000705)
 
 Yingzhi Xia, [Nicholas Zabaras](https://www.zabaras.com)
 
